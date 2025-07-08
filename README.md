@@ -3,7 +3,7 @@ Tool om een Revit Project af te stemmen op de Nederlandse BIM standaarden:
 BIM Basis ILS en de Revit Standards
 
 Read more about this project on my blog (DUTCH). 
-http://ikleerbim.blogspot.com/2018/02/tool-om-een-revit-project-af-te-stemmen.html
+https://ikleerbim.blogspot.com/search?q=standards&max-results=20&by-date=true
 
 On my blog you can also find the disclaimer. 
 https://creativecommons.org/licenses/by-nc-sa/3.0/deed.nl - 
